@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="MauiDotNet9Pre5_Popup.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:MauiDotNet9Pre5_Popup.WinUI">
+
+</maui:MauiWinUIApplication>
